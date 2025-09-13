@@ -1,0 +1,7 @@
+.pointer{
+    cursor: pointer;
+}
+
+.firebase-gradient  {
+  background: linear-gradient(135deg, #ffca28, #f57c00, #e53935);
+}
